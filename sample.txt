@@ -1,3 +1,4 @@
 sample
 add sample
 commit index status record
+pull remote repo info get
